@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Skaalum\.nuget\packages\microsoft.net.test.sdk\16.5.0\build\netcoreapp2.1" t="Include">
+      <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
+    </e>
+    <e p="C:\Users\Skaalum\.nuget\packages\microsoft.testplatform.testhost\16.5.0\build\netcoreapp2.1\x64\testhost.dll" t="Include" />
+    <e p="C:\Users\Skaalum\.nuget\packages\microsoft.testplatform.testhost\16.5.0\build\netcoreapp2.1\x64\testhost.exe" t="Include" />
+    <e p="C:\Users\Skaalum\.nuget\packages\nunit3testadapter\3.16.1\build\netcoreapp2.1\nunit.engine.api.dll" t="Include" />
+    <e p="C:\Users\Skaalum\.nuget\packages\nunit3testadapter\3.16.1\build\netcoreapp2.1\nunit.engine.dll" t="Include" />
+    <e p="C:\Users\Skaalum\.nuget\packages\nunit3testadapter\3.16.1\build\netcoreapp2.1\NUnit3.TestAdapter.dll" t="Include" />
+    <e p="C:\Users\Skaalum\.nuget\packages\nunit3testadapter\3.16.1\build\netcoreapp2.1\NUnit3.TestAdapter.pdb" t="Include" />
+    <e p="C:\Users\Skaalum\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Skaalum\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_DashSystem.-2067916426.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Skaalum\Dropbox\Uddannelse\AAUSoftware\3.semester\OOP\Eksamensopgave\DashSystem" t="IncludeFlat">
+      <e p="DashSystem" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="IController.cs" t="Include" />
+          <e p="ProductController.cs" t="Include" />
+          <e p="TransactionController.cs" t="Include" />
+          <e p="UserController.cs" t="Include" />
+        </e>
+        <e p="DashSystem.cs" t="Include" />
+        <e p="DashSystem.csproj" t="IncludeRecursive" />
+        <e p="DataAccess" t="Include">
+          <e p="DataAccessStrategies" t="Include">
+            <e p="CsvDataAccessStrategy.cs" t="Include" />
+            <e p="IDataAccessStrategy.cs" t="Include" />
+          </e>
+          <e p="DataParserStrategies" t="Include">
+            <e p="CsvDataParserStrategy.cs" t="Include" />
+            <e p="IDataParserStrategy.cs" t="Include" />
+          </e>
+          <e p="IDataAccess.cs" t="Include" />
+          <e p="ProductDataAccess.cs" t="Include" />
+          <e p="TransactionDataAccess.cs" t="Include" />
+          <e p="UserDataAccess.cs" t="Include" />
+        </e>
+        <e p="Exceptions" t="Include">
+          <e p="InsufficientCreditsException.cs" t="Include" />
+          <e p="InvalidCashAmountException.cs" t="Include" />
+          <e p="ProductInactiveException.cs" t="Include" />
+        </e>
+        <e p="GlobalSuppressions.cs" t="Include" />
+        <e p="IDashSystem.cs" t="Include" />
+        <e p="Models" t="Include">
+          <e p="ICollumnNameGetable.cs" t="Include" />
+          <e p="Products" t="Include">
+            <e p="IProduct.cs" t="Include" />
+            <e p="Product.cs" t="Include" />
+            <e p="ProductBase.cs" t="Include" />
+            <e p="SeasonalProducts" t="Include">
+              <e p="SeasonalDate.cs" t="Include" />
+              <e p="SeasonalProduct.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Transactions" t="Include">
+            <e p="BuyTransaction.cs" t="Include" />
+            <e p="InsertCashTransaction.cs" t="Include" />
+            <e p="ITransaction.cs" t="Include" />
+            <e p="TransactionBase.cs" t="Include" />
+          </e>
+          <e p="Users" t="Include">
+            <e p="IUser.cs" t="Include" />
+            <e p="User.cs" t="Include" />
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="DashSystem.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="DashSystem.Controller" t="IncludeRecursive">
+        <e p="AdminCommands.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DashSystem.Controller.csproj" t="IncludeRecursive" />
+        <e p="DashSystemController.cs" t="Include" />
+        <e p="Data" t="Include">
+          <e p="products.csv" t="Include" />
+          <e p="transactions.csv" t="Include" />
+          <e p="users.csv" t="Include" />
+        </e>
+        <e p="GlobalSuppressions.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="DashSystem.Controller.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="UserCommand.cs" t="Include" />
+      </e>
+      <e p="DashSystem.sln" t="IncludeFlat" />
+      <e p="DashSystem.Tests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DashSystem.Tests.csproj" t="IncludeRecursive" />
+        <e p="Data" t="Include">
+          <e p="products.csv" t="Include" />
+          <e p="transactions.csv" t="Include" />
+          <e p="users.csv" t="Include" />
+        </e>
+        <e p="Integration tests" t="Include">
+          <e p="ProductControllerTests.cs" t="Include" />
+          <e p="TransactionControllerTests.cs" t="Include" />
+          <e p="UserControllerTests.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="DashSystem.Tests.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Unit tests" t="Include">
+          <e p="BuyTransactionTests.cs" t="Include" />
+          <e p="InsertCashTransactionTests.cs" t="Include" />
+          <e p="SeasonalDateTests.cs" t="Include" />
+          <e p="UserTests.cs" t="Include" />
+        </e>
+      </e>
+      <e p="DashSystem.UI" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DashSystem.UI.csproj" t="IncludeRecursive" />
+        <e p="DashSystemCLI.cs" t="Include" />
+        <e p="GlobalSuppressions.cs" t="Include" />
+        <e p="IDashSystemUI.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="DashSystem.UI.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

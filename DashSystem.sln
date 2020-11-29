@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DashSystem.Controller", "DashSystem.Controller\DashSystem.Controller.csproj", "{854D13F7-4B60-423F-A85B-886778CF9320}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DashSystem", "DashSystem\DashSystem.csproj", "{70D8A4AC-71C0-4E94-AD4E-FDD05AC7C3E9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DashSystem.UI", "DashSystem.UI\DashSystem.UI.csproj", "{EFF29F3E-5F10-443C-97DA-0C3B3CBF7314}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DashSystem.Tests", "DashSystem.Tests\DashSystem.Tests.csproj", "{E3EA2C6A-8152-45A4-BB98-12E9D31CC7B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{854D13F7-4B60-423F-A85B-886778CF9320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{854D13F7-4B60-423F-A85B-886778CF9320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{854D13F7-4B60-423F-A85B-886778CF9320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{854D13F7-4B60-423F-A85B-886778CF9320}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70D8A4AC-71C0-4E94-AD4E-FDD05AC7C3E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D8A4AC-71C0-4E94-AD4E-FDD05AC7C3E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D8A4AC-71C0-4E94-AD4E-FDD05AC7C3E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D8A4AC-71C0-4E94-AD4E-FDD05AC7C3E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFF29F3E-5F10-443C-97DA-0C3B3CBF7314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFF29F3E-5F10-443C-97DA-0C3B3CBF7314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFF29F3E-5F10-443C-97DA-0C3B3CBF7314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFF29F3E-5F10-443C-97DA-0C3B3CBF7314}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3EA2C6A-8152-45A4-BB98-12E9D31CC7B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3EA2C6A-8152-45A4-BB98-12E9D31CC7B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3EA2C6A-8152-45A4-BB98-12E9D31CC7B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3EA2C6A-8152-45A4-BB98-12E9D31CC7B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {058E3518-E733-463A-AB01-B87D43DB18B6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DashSystem.UI/1.0.0": {
+        "dependencies": {
+          "DashSystem": "1.0.0"
+        },
+        "runtime": {
+          "DashSystem.UI.dll": {}
+        }
+      },
+      "DashSystem/1.0.0": {
+        "runtime": {
+          "DashSystem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DashSystem.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DashSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

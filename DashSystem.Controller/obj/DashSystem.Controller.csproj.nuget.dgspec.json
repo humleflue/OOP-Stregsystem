@@ -1,0 +1,187 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Skaalum\\Dropbox\\Uddannelse\\AAUSoftware\\3.semester\\OOP\\Eksamensopgave\\DashSystem\\DashSystem.Controller\\DashSystem.Controller.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Skaalum\\Dropbox\\Uddannelse\\AAUSoftware\\3.semester\\OOP\\Eksamensopgave\\DashSystem\\DashSystem.Controller\\DashSystem.Controller.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Skaalum\\Dropbox\\Uddannelse\\AAUSoftware\\3.semester\\OOP\\Eksamensopgave\\DashSystem\\DashSystem.Controller\\DashSystem.Controller.csproj",
+        "projectName": "DashSystem.Controller",
+        "projectPath": "C:\\Users\\Skaalum\\Dropbox\\Uddannelse\\AAUSoftware\\3.semester\\OOP\\Eksamensopgave\\DashSystem\\DashSystem.Controller\\DashSystem.Controller.csproj",
+        "packagesPath": "C:\\Users\\Skaalum\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Skaalum\\Dropbox\\Uddannelse\\AAUSoftware\\3.semester\\OOP\\Eksamensopgave\\DashSystem\\DashSystem.Controller\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Skaalum\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Skaalum\\Dropbox\\Uddannelse\\AAUSoftware\\3.semester\\OOP\\Eksamensopgave\\DashSystem\\DashSystem.UI\\DashSystem.UI.csproj": {
+                "projectPath": "C:\\Users\\Skaalum\\Dropbox\\Uddannelse\\AAUSoftware\\3.semester\\OOP\\Eksamensopgave\\DashSystem\\DashSystem.UI\\DashSystem.UI.csproj"
+              },
+              "C:\\Users\\Skaalum\\Dropbox\\Uddannelse\\AAUSoftware\\3.semester\\OOP\\Eksamensopgave\\DashSystem\\DashSystem\\DashSystem.csproj": {
+                "projectPath": "C:\\Users\\Skaalum\\Dropbox\\Uddannelse\\AAUSoftware\\3.semester\\OOP\\Eksamensopgave\\DashSystem\\DashSystem\\DashSystem.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Skaalum\\Dropbox\\Uddannelse\\AAUSoftware\\3.semester\\OOP\\Eksamensopgave\\DashSystem\\DashSystem.UI\\DashSystem.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Skaalum\\Dropbox\\Uddannelse\\AAUSoftware\\3.semester\\OOP\\Eksamensopgave\\DashSystem\\DashSystem.UI\\DashSystem.UI.csproj",
+        "projectName": "DashSystem.UI",
+        "projectPath": "C:\\Users\\Skaalum\\Dropbox\\Uddannelse\\AAUSoftware\\3.semester\\OOP\\Eksamensopgave\\DashSystem\\DashSystem.UI\\DashSystem.UI.csproj",
+        "packagesPath": "C:\\Users\\Skaalum\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Skaalum\\Dropbox\\Uddannelse\\AAUSoftware\\3.semester\\OOP\\Eksamensopgave\\DashSystem\\DashSystem.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Skaalum\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Skaalum\\Dropbox\\Uddannelse\\AAUSoftware\\3.semester\\OOP\\Eksamensopgave\\DashSystem\\DashSystem\\DashSystem.csproj": {
+                "projectPath": "C:\\Users\\Skaalum\\Dropbox\\Uddannelse\\AAUSoftware\\3.semester\\OOP\\Eksamensopgave\\DashSystem\\DashSystem\\DashSystem.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Skaalum\\Dropbox\\Uddannelse\\AAUSoftware\\3.semester\\OOP\\Eksamensopgave\\DashSystem\\DashSystem\\DashSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Skaalum\\Dropbox\\Uddannelse\\AAUSoftware\\3.semester\\OOP\\Eksamensopgave\\DashSystem\\DashSystem\\DashSystem.csproj",
+        "projectName": "DashSystem",
+        "projectPath": "C:\\Users\\Skaalum\\Dropbox\\Uddannelse\\AAUSoftware\\3.semester\\OOP\\Eksamensopgave\\DashSystem\\DashSystem\\DashSystem.csproj",
+        "packagesPath": "C:\\Users\\Skaalum\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Skaalum\\Dropbox\\Uddannelse\\AAUSoftware\\3.semester\\OOP\\Eksamensopgave\\DashSystem\\DashSystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Skaalum\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

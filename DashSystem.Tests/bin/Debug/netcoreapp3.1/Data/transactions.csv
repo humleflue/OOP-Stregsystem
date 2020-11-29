@@ -1,0 +1,10 @@
+id;type;date;amount;user_id;product_id
+1;BuyTransaction;25-Nov-20 18:16:47;-1200;1;11
+2;BuyTransaction;25-Nov-20 18:16:52;-1200;1;11
+3;BuyTransaction;25-Nov-20 18:16:52;-1200;1;11
+4;InsertCashTransaction;25-Nov-20 18:17:03;100000;1;-1
+5;BuyTransaction;25-Nov-20 18:30:50;-1000;1;13
+6;BuyTransaction;25-Nov-20 18:40:13;-4500;1;1778
+7;BuyTransaction;25-Nov-20 18:54:09;-1200;1;11
+8;BuyTransaction;25-Nov-20 18:54:09;-1200;1;11
+9;BuyTransaction;25-Nov-20 19:03:52;-200;1;200
