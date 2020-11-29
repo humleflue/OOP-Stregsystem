@@ -4852,23 +4852,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Skaalum\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet": {}
+    "C:\\Users\\humle\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Skaalum\\Dropbox\\Uddannelse\\AAUSoftware\\3.semester\\OOP\\Eksamensopgave\\DashSystem\\DashSystem.Tests\\DashSystem.Tests.csproj",
+      "projectUniqueName": "C:\\GitRepos\\OOP-Stregsystem\\DashSystem.Tests\\DashSystem.Tests.csproj",
       "projectName": "DashSystem.Tests",
-      "projectPath": "C:\\Users\\Skaalum\\Dropbox\\Uddannelse\\AAUSoftware\\3.semester\\OOP\\Eksamensopgave\\DashSystem\\DashSystem.Tests\\DashSystem.Tests.csproj",
-      "packagesPath": "C:\\Users\\Skaalum\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Skaalum\\Dropbox\\Uddannelse\\AAUSoftware\\3.semester\\OOP\\Eksamensopgave\\DashSystem\\DashSystem.Tests\\obj\\",
+      "projectPath": "C:\\GitRepos\\OOP-Stregsystem\\DashSystem.Tests\\DashSystem.Tests.csproj",
+      "packagesPath": "C:\\Users\\humle\\.nuget\\packages\\",
+      "outputPath": "C:\\GitRepos\\OOP-Stregsystem\\DashSystem.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Skaalum\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\humle\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -4877,19 +4877,21 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.emzi0767.com/api/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Skaalum\\Dropbox\\Uddannelse\\AAUSoftware\\3.semester\\OOP\\Eksamensopgave\\DashSystem\\DashSystem.Controller\\DashSystem.Controller.csproj": {
-              "projectPath": "C:\\Users\\Skaalum\\Dropbox\\Uddannelse\\AAUSoftware\\3.semester\\OOP\\Eksamensopgave\\DashSystem\\DashSystem.Controller\\DashSystem.Controller.csproj"
+            "C:\\GitRepos\\OOP-Stregsystem\\DashSystem.Controller\\DashSystem.Controller.csproj": {
+              "projectPath": "C:\\GitRepos\\OOP-Stregsystem\\DashSystem.Controller\\DashSystem.Controller.csproj"
             },
-            "C:\\Users\\Skaalum\\Dropbox\\Uddannelse\\AAUSoftware\\3.semester\\OOP\\Eksamensopgave\\DashSystem\\DashSystem.UI\\DashSystem.UI.csproj": {
-              "projectPath": "C:\\Users\\Skaalum\\Dropbox\\Uddannelse\\AAUSoftware\\3.semester\\OOP\\Eksamensopgave\\DashSystem\\DashSystem.UI\\DashSystem.UI.csproj"
+            "C:\\GitRepos\\OOP-Stregsystem\\DashSystem.UI\\DashSystem.UI.csproj": {
+              "projectPath": "C:\\GitRepos\\OOP-Stregsystem\\DashSystem.UI\\DashSystem.UI.csproj"
             },
-            "C:\\Users\\Skaalum\\Dropbox\\Uddannelse\\AAUSoftware\\3.semester\\OOP\\Eksamensopgave\\DashSystem\\DashSystem\\DashSystem.csproj": {
-              "projectPath": "C:\\Users\\Skaalum\\Dropbox\\Uddannelse\\AAUSoftware\\3.semester\\OOP\\Eksamensopgave\\DashSystem\\DashSystem\\DashSystem.csproj"
+            "C:\\GitRepos\\OOP-Stregsystem\\DashSystem\\DashSystem.csproj": {
+              "projectPath": "C:\\GitRepos\\OOP-Stregsystem\\DashSystem\\DashSystem.csproj"
             }
           }
         }
@@ -4902,6 +4904,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
@@ -4935,7 +4938,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

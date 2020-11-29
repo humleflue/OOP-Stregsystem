@@ -46,3 +46,15 @@ C:\Users\Skaalum\Downloads\20194101_Lasse_Damsgaard_Skaalum (2)\DashSystem\DashS
 C:\Users\Skaalum\Downloads\20194101_Lasse_Damsgaard_Skaalum (2)\DashSystem\DashSystem.UI\obj\Debug\netcoreapp3.1\DashSystem.UI.csproj.CopyComplete
 C:\Users\Skaalum\Downloads\20194101_Lasse_Damsgaard_Skaalum (2)\DashSystem\DashSystem.UI\obj\Debug\netcoreapp3.1\DashSystem.UI.dll
 C:\Users\Skaalum\Downloads\20194101_Lasse_Damsgaard_Skaalum (2)\DashSystem\DashSystem.UI\obj\Debug\netcoreapp3.1\DashSystem.UI.pdb
+C:\GitRepos\OOP-Stregsystem\DashSystem.UI\bin\Debug\netcoreapp3.1\DashSystem.UI.deps.json
+C:\GitRepos\OOP-Stregsystem\DashSystem.UI\bin\Debug\netcoreapp3.1\DashSystem.UI.dll
+C:\GitRepos\OOP-Stregsystem\DashSystem.UI\bin\Debug\netcoreapp3.1\DashSystem.UI.pdb
+C:\GitRepos\OOP-Stregsystem\DashSystem.UI\bin\Debug\netcoreapp3.1\DashSystem.dll
+C:\GitRepos\OOP-Stregsystem\DashSystem.UI\bin\Debug\netcoreapp3.1\DashSystem.pdb
+C:\GitRepos\OOP-Stregsystem\DashSystem.UI\obj\Debug\netcoreapp3.1\DashSystem.UI.csprojAssemblyReference.cache
+C:\GitRepos\OOP-Stregsystem\DashSystem.UI\obj\Debug\netcoreapp3.1\DashSystem.UI.AssemblyInfoInputs.cache
+C:\GitRepos\OOP-Stregsystem\DashSystem.UI\obj\Debug\netcoreapp3.1\DashSystem.UI.AssemblyInfo.cs
+C:\GitRepos\OOP-Stregsystem\DashSystem.UI\obj\Debug\netcoreapp3.1\DashSystem.UI.csproj.CoreCompileInputs.cache
+C:\GitRepos\OOP-Stregsystem\DashSystem.UI\obj\Debug\netcoreapp3.1\DashSystem.UI.csproj.CopyComplete
+C:\GitRepos\OOP-Stregsystem\DashSystem.UI\obj\Debug\netcoreapp3.1\DashSystem.UI.dll
+C:\GitRepos\OOP-Stregsystem\DashSystem.UI\obj\Debug\netcoreapp3.1\DashSystem.UI.pdb

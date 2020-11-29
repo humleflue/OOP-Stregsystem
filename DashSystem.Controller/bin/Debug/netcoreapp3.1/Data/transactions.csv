@@ -1306,3 +1306,14 @@ id;type;date;amount;user_id;product_id
 1305;BuyTransaction;29-11-2020 16:13:13;-4500;1;1778
 1306;BuyTransaction;29-11-2020 16:13:13;-4500;1;1778
 1307;BuyTransaction;29-11-2020 16:13:55;-1200;1;11
+1308;InsertCashTransaction;29-Nov-20 18:42:10;2000000;1;
+1309;BuyTransaction;29-Nov-20 18:42:13;-1200;1;11
+1310;BuyTransaction;29-Nov-20 18:42:15;-1200;1;11
+1311;BuyTransaction;29-Nov-20 18:42:15;-1200;1;11
+1312;BuyTransaction;29-Nov-20 18:42:15;-1200;1;11
+1313;BuyTransaction;29-Nov-20 18:42:18;-200;1;200
+1314;BuyTransaction;29-Nov-20 18:42:23;-3500;1;1835
+1315;BuyTransaction;29-Nov-20 18:42:23;-3500;1;1835
+1316;BuyTransaction;29-Nov-20 18:42:23;-3500;1;1835
+1317;BuyTransaction;29-Nov-20 18:42:23;-3500;1;1835
+1318;BuyTransaction;29-Nov-20 18:42:23;-3500;1;1835

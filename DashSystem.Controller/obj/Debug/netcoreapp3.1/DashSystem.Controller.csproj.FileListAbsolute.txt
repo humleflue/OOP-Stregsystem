@@ -82,3 +82,24 @@ C:\Users\Skaalum\Downloads\20194101_Lasse_Damsgaard_Skaalum (2)\DashSystem\DashS
 C:\Users\Skaalum\Downloads\20194101_Lasse_Damsgaard_Skaalum (2)\DashSystem\DashSystem.Controller\obj\Debug\netcoreapp3.1\DashSystem.Controller.dll
 C:\Users\Skaalum\Downloads\20194101_Lasse_Damsgaard_Skaalum (2)\DashSystem\DashSystem.Controller\obj\Debug\netcoreapp3.1\DashSystem.Controller.pdb
 C:\Users\Skaalum\Downloads\20194101_Lasse_Damsgaard_Skaalum (2)\DashSystem\DashSystem.Controller\obj\Debug\netcoreapp3.1\DashSystem.Controller.genruntimeconfig.cache
+C:\GitRepos\OOP-Stregsystem\DashSystem.Controller\bin\Debug\netcoreapp3.1\Data\products.csv
+C:\GitRepos\OOP-Stregsystem\DashSystem.Controller\bin\Debug\netcoreapp3.1\Data\transactions.csv
+C:\GitRepos\OOP-Stregsystem\DashSystem.Controller\bin\Debug\netcoreapp3.1\Data\users.csv
+C:\GitRepos\OOP-Stregsystem\DashSystem.Controller\bin\Debug\netcoreapp3.1\DashSystem.Controller.exe
+C:\GitRepos\OOP-Stregsystem\DashSystem.Controller\bin\Debug\netcoreapp3.1\DashSystem.Controller.deps.json
+C:\GitRepos\OOP-Stregsystem\DashSystem.Controller\bin\Debug\netcoreapp3.1\DashSystem.Controller.runtimeconfig.json
+C:\GitRepos\OOP-Stregsystem\DashSystem.Controller\bin\Debug\netcoreapp3.1\DashSystem.Controller.runtimeconfig.dev.json
+C:\GitRepos\OOP-Stregsystem\DashSystem.Controller\bin\Debug\netcoreapp3.1\DashSystem.Controller.dll
+C:\GitRepos\OOP-Stregsystem\DashSystem.Controller\bin\Debug\netcoreapp3.1\DashSystem.Controller.pdb
+C:\GitRepos\OOP-Stregsystem\DashSystem.Controller\bin\Debug\netcoreapp3.1\DashSystem.dll
+C:\GitRepos\OOP-Stregsystem\DashSystem.Controller\bin\Debug\netcoreapp3.1\DashSystem.UI.dll
+C:\GitRepos\OOP-Stregsystem\DashSystem.Controller\bin\Debug\netcoreapp3.1\DashSystem.UI.pdb
+C:\GitRepos\OOP-Stregsystem\DashSystem.Controller\bin\Debug\netcoreapp3.1\DashSystem.pdb
+C:\GitRepos\OOP-Stregsystem\DashSystem.Controller\obj\Debug\netcoreapp3.1\DashSystem.Controller.csprojAssemblyReference.cache
+C:\GitRepos\OOP-Stregsystem\DashSystem.Controller\obj\Debug\netcoreapp3.1\DashSystem.Controller.AssemblyInfoInputs.cache
+C:\GitRepos\OOP-Stregsystem\DashSystem.Controller\obj\Debug\netcoreapp3.1\DashSystem.Controller.AssemblyInfo.cs
+C:\GitRepos\OOP-Stregsystem\DashSystem.Controller\obj\Debug\netcoreapp3.1\DashSystem.Controller.csproj.CoreCompileInputs.cache
+C:\GitRepos\OOP-Stregsystem\DashSystem.Controller\obj\Debug\netcoreapp3.1\DashSystem.Controller.csproj.CopyComplete
+C:\GitRepos\OOP-Stregsystem\DashSystem.Controller\obj\Debug\netcoreapp3.1\DashSystem.Controller.dll
+C:\GitRepos\OOP-Stregsystem\DashSystem.Controller\obj\Debug\netcoreapp3.1\DashSystem.Controller.pdb
+C:\GitRepos\OOP-Stregsystem\DashSystem.Controller\obj\Debug\netcoreapp3.1\DashSystem.Controller.genruntimeconfig.cache

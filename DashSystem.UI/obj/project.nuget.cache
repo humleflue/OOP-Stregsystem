@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jwGBGA3ymbHGaLIc3CeAfN7O1e4SmGioD7AvK15WabXy6OHGh4lgVDsx4T7KjOFBzeLL1BoJwRw/Waz3NEX5+A==",
+  "dgSpecHash": "8D74QxvJMtMd/fHm46icL/5ZBE1jVH/uAwA/cj1ZvS/Yr4du9Ijs3l4anI1HqkBgEkg/ZSLsF5os70M2oVd8GQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Skaalum\\Dropbox\\Uddannelse\\AAUSoftware\\3.semester\\OOP\\Eksamensopgave\\DashSystem\\DashSystem.UI\\DashSystem.UI.csproj",
+  "projectFilePath": "C:\\GitRepos\\OOP-Stregsystem\\DashSystem.UI\\DashSystem.UI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
